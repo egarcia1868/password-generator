@@ -8,7 +8,7 @@ To run the password generator, just bring up the html page, click on the generat
 
 ### Prerequisites
 
-The only thing you really need to run this, is an internet browser.
+The only thing you really need to run this is an internet browser.
 
 ## Built With
 
