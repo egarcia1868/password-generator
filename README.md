@@ -1,6 +1,6 @@
 # Random Password Generator
 
-This is my random password generator.  It will generate a 8 - 128 digit, randomized password using lowercase letters, uppercase letters, special characters, and/or numbers.
+This is my random password generator.  It will generate an 8 - 128 digit, randomized password using lowercase letters, uppercase letters, special characters, and/or numbers.
 
 ## Getting Started
 
