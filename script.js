@@ -29,7 +29,6 @@ function generatePassword() {
   };
   if (confirm("Would you like to include UPPER CASE LETTERS in your password?  If so, click \"Confirm\".  If not, click \"Cancel\"")) {
     usedChars = usedChars.concat(lowerCase.map(function(x){ return x.toUpperCase()}));
-    array2 = array2.map(function(x){ return x.toUpperCase() })
     choices++;
   };
   if (confirm("Would you like to include special characters (e.g. - #$?%^) in your password?  If so, click \"Confirm\".  If not, click \"Cancel\"")) {
